@@ -1,4 +1,4 @@
-# (c) adarsh-goel (c) @biisal
+# (c) adarsh-goel (c) @hskdashing
 import os
 from os import getenv, environ
 from dotenv import load_dotenv
@@ -6,9 +6,9 @@ from dotenv import load_dotenv
 
 
 load_dotenv()
-bot_name = "Bɪɪsᴀʟ Fɪʟᴇ2Lɪɴᴋ Bᴏᴛ"
-bisal_channel = "https://telegram.me/bisal_files"
-bisal_grp = "https://t.me/+PA8OPL2Zglk3MDM1"
+bot_name = "zb movies stream Bᴏᴛ"
+bisal_channel = "https://t.me/+9q_ZBEl9J2E2Mjhk"
+bisal_grp = "https://t.me/+bncqu19vR8RlZGY0"
 
 class Var(object):
     MULTI_CLIENT = False
